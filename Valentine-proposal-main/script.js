@@ -33,7 +33,7 @@ function showMessage(response) {
         videoElement.controls = false;
         document.body.appendChild(videoElement);
         videoElement.style.position = "fixed";
-        videoElement.style.top = "30%";
+        videoElement.style.top = "25%";
         videoElement.style.left = "50%";
         videoElement.style.transform = "translate(-50%, -50%)";
         videoElement.style.width = "800px"
